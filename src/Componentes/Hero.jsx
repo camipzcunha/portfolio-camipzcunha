@@ -38,7 +38,7 @@ const Hero = () => {
                     bg-gradient-to-br from-blue-500 to-pink-700 text-white'>
                         Baixar CV
                     </a>
-                    <a href="/" className='px-6 py-3 w-full rounded-xl mr-4
+                    <a href="https://github.com/camipzcunha" className='px-6 py-3 w-full rounded-xl mr-4
                     border border-gray-400 hover:bg-gradient-to-br from-blue-500 to-pink-700 text-white hover:border-none'>
                     Meu Github
                     </a>     
