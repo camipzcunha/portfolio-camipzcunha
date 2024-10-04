@@ -1,0 +1,57 @@
+[
+
+{
+    "id": 1,
+    "name": "Projeto Breshop",
+    "description": "Projeto de um e-commerce de roupas, desenvolvido no curso de Informática para a Internet na ETEC. Utilizado como TCC. Uso de HTML, CSS, JavaScript, PHP e MySQL.",
+    "ano_desenvolvimento": "2019",
+    "tecnologias": ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+    "imagem": "projBreshop.jpg"
+},
+
+{
+    "id": 2,
+    "name": "Projeto Vinheira Agnello",
+    "description": "Projeto de um site de uma vinícola fictícia, desenvolvido no curso de Engenharia de Software na FIAP. Uso de HTML, CSS, JavaScript.",
+    "ano_desenvolvimento": "2024",
+    "tecnologias": ["HTML", "CSS", "JavaScript"],
+    "imagem": "projVinheria.jpg"
+},
+
+{
+    "id": 3,
+    "name": "Projeto Ocean Innovators - Aquavision",
+    "description": "Projeto de um site de uma empresa fictícia de tecnologia marinha, desenvolvido no curso de Engenharia de Software na FIAP. Uso de HTML, CSS, JavaScript.",
+    "ano_desenvolvimento": "2024",
+    "tecnologias": ["HTML", "CSS", "JavaScript"],
+    "imagem": "projOceano.jpg"
+},
+
+{
+    "id":4,
+    "name": "Projeto de um site de vendas ecológicas",
+    "description": "Projeto de um site de vendas de produtos ecológicos, desenvolvido no curso de Engenharia de Software na FIAP. Uso de HTML, CSS, JavaScript.",
+    "ano_desenvolvimento": "2024",
+    "tecnologias": ["HTML", "CSS", "JavaScript"],
+    "imagem": "projEco.jpg"
+},
+
+{
+    "id": 5,
+    "name": "Projeto de uma plataforma de fórmula-E para Mahindra - E-TEEN",
+    "description": "Projeto de uma plataforma de fórmula-E para a equipe Mahindra, desenvolvido no curso de Engenharia de Software na FIAP. Uso de HTML, CSS, JavaScript, React, Tailwind.",
+    "ano_desenvolvimento": "2024",
+    "tecnologias": ["HTML", "CSS", "JavaScript", "React", "Tailwind"],
+    "imagem": "projEteen.jpg"
+},
+
+{
+    "id": 6,
+    "name": "Portal de filmes e séries",
+    "description": "Projeto de um portal de filmes e séries, desenvolvido no curso de Engenharia de Software na FIAP. Uso de HTML, CSS, JavaScript, React, Tailwind.",
+    "ano_desenvolvimento": "2024",
+    "tecnologias": ["HTML", "CSS", "JavaScript", "React", "Tailwind"],
+    "imagem": "projMovie.jpg"
+}
+
+]
