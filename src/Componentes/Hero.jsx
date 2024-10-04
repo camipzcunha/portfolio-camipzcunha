@@ -34,7 +34,7 @@ const Hero = () => {
                 </p>
 
                 <div className='my-8'>
-                    <a href="/" className='px-6 py-3 w-full rounded-xl mr-4
+                    <a href="https://drive.google.com/file/d/1OCrh_ecF1E1tMXvJrq1XmbqUMatIj-_j/view?usp=drivesdk" className='px-6 py-3 w-full rounded-xl mr-4
                     bg-gradient-to-br from-blue-500 to-pink-700 text-white'>
                         Baixar CV
                     </a>
