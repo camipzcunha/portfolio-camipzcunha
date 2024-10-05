@@ -9,7 +9,6 @@ Este é o repositório do meu portfólio, desenvolvido para apresentar meus prin
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Instalação e Configuração](#instalação-e-configuração)
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- [Contribuições](#contribuições)
 - [Licença](#licença)
 
 ## 🔍 Visão Geral
@@ -79,9 +78,9 @@ portfolio/
 └── README.md           # Documentação do projeto
 ```
 
-## 📝 Licença
+## 📝 Vercel
 
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
+Este é o link da Vercel: https://portfolio-camipzcunha.vercel.app/
 
 ---
 
