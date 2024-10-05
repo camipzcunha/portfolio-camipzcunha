@@ -7,7 +7,7 @@ export default function ProjCard({ id, name, image }) { // Certifique-se de que 
         shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center
         mx-auto content-div h-[200px] bg-cover relative"
     >
-      <img src={`/public/${image}`} alt={name} className="w-full h-full object-cover" />
+      <img src={`${image}`} alt={name} className="w-full h-full object-cover" />
       <div
         className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex
           flex-col justify-center"
